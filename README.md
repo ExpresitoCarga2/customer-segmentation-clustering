@@ -60,3 +60,13 @@ Asimismo, la presencia de clusters pequeños con alto gasto indica la existencia
 Esta segmentación permite diseñar estrategias específicas para cada grupo, optimizando acciones de marketing y fidelización.
 
 
+## Visualizaciones
+
+### Método del Codo
+![Elbow Method](visualizations/elbow_method.png)
+
+### Proyección PCA
+![PCA Clusters](visualizations/pca_clusters.png)
+
+### Proyección t-SNE
+![t-SNE Clusters](visualizations/tsne_clusters.png)
