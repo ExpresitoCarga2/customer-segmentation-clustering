@@ -58,3 +58,5 @@ El modelo K-Means logró identificar segmentos diferenciados en función del com
 Asimismo, la presencia de clusters pequeños con alto gasto indica la existencia de outliers positivos que representan una parte significativa de los ingresos.
 
 Esta segmentación permite diseñar estrategias específicas para cada grupo, optimizando acciones de marketing y fidelización.
+
+
